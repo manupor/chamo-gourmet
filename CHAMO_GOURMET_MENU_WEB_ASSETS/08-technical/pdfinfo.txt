@@ -1,0 +1,19 @@
+Title:           
+Creator:         Adobe Illustrator 30.1 (Macintosh)
+Producer:        Adobe PDF library 17.00
+CreationDate:    Mon Feb  9 20:25:26 2026 UTC
+ModDate:         Mon Feb  9 20:25:26 2026 UTC
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          no
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           8
+Encrypted:       no
+Page size:       576 x 792 pts
+Page rot:        0
+File size:       601360 bytes
+Optimized:       yes
+PDF version:     1.6

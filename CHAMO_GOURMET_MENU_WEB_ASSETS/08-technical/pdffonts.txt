@@ -1,0 +1,29 @@
+name                                 type              encoding         emb sub uni object ID
+------------------------------------ ----------------- ---------------- --- --- --- ---------
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     482  0
+YYHFVB+AzoSans-Black                 Type 1C           WinAnsi          yes yes no     484  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     407  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     410  0
+WXNTTF+AzoSans-Light                 Type 1C           WinAnsi          yes yes no     411  0
+WXNTTF+AzoSans-Bold                  Type 1C           WinAnsi          yes yes no     412  0
+WXNTTF+AzoSans-Bold                  Type 1C           WinAnsi          yes yes no     416  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     414  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     415  0
+WXNTTF+AzoSans-Bold                  Type 1C           WinAnsi          yes yes no     417  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     419  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     418  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     421  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     420  0
+YYHFVB+AzoSans-Black                 Type 1C           WinAnsi          yes yes no     422  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     425  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     426  0
+YYHFVB+AzoSans-Black                 Type 1C           WinAnsi          yes yes no     423  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     427  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     428  0
+YYHFVB+AzoSans-Black                 Type 1C           WinAnsi          yes yes no     429  0
+WXNTTF+AzoSans-Bold                  Type 1C           WinAnsi          yes yes no     430  0
+WXNTTF+AzoSans-Bold                  Type 1C           Custom           yes yes no     432  0
+WXNTTF+AzoSans-Light                 Type 1C           WinAnsi          yes yes no     431  0
+BRLXLV+AzoSans-MediumItalic          Type 1C           WinAnsi          yes yes no     434  0
+YYHFVB+AzoSans-Regular               Type 1C           WinAnsi          yes yes no     433  0
+WXNTTF+AzoSans-Medium                Type 1C           WinAnsi          yes yes no     435  0

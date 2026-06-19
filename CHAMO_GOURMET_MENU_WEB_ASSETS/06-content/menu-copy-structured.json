@@ -1,0 +1,127 @@
+{
+  "brand": "Chamo Gourmet",
+  "menu_type": "Comida venezolana",
+  "currency": "CRC",
+  "currency_symbol": "₡",
+  "sections": [
+    {
+      "slug": "arepas-grandes",
+      "title": "Arepas grandes",
+      "items": [
+        {"name": "Arepa grande llanera", "price_crc": 6500, "description": "Deliciosa arepa rellena de carne a la parrilla, queso frito, aguacate, acompañada de 2 tequeños y 1 salsa."},
+        {"name": "Arepa grande de reina pepiada", "price_crc": 6500, "description": "Deliciosa arepa rellena de una mezcla de pollo mechado con aguacate y especies, acompañada de 2 tequeños y 1 salsa."},
+        {"name": "Arepa grande de carne mechada", "price_crc": 6000, "description": "Deliciosa arepa rellena de carne mechada acompañada de 2 tequeños y 1 salsa."},
+        {"name": "Arepa grande de pollo", "price_crc": 5500, "description": "Deliciosa arepa rellena de pollo mechado acompañada de 2 tequeños y 1 salsa."},
+        {"name": "Arepa grande de queso", "price_crc": 5500, "description": "Deliciosa arepa rellena de queso semiduro acompañada de 2 tequeños y 1 salsa."},
+        {"name": "Arepa vegetariana", "price_crc": 6000, "description": ""}
+      ]
+    },
+    {
+      "slug": "cachapas",
+      "title": "Cachapas",
+      "items": [
+        {"name": "Cachapa con solomo", "price_crc": 9500, "description": "Deliciosa cachapa de maíz tierno rellena de queso de mano, acompañada de jugosa punta de solomo a la parrilla y nuestra guasacaca parrillera."},
+        {"name": "Cachapa con cerdo", "price_crc": 8800, "description": "Deliciosa cachapa de maíz tierno rellena de queso de mano, acompañada de crujiente cerdo frito y nuestra guasacaca parrillera."},
+        {"name": "Cachapa con queso", "price_crc": 6500, "description": "Deliciosa cachapa de maíz tierno rellena de queso de mano y natilla."}
+      ],
+      "intro": "Las cachapas son una joya de la gastronomía venezolana: es una especie de panqueque elaborada con maíz tierno molido, suave y ligeramente dulce. Se sirven calientes y rellenas de queso de mano que se derrite suavemente en cada bocado, pueden combinarse con natilla, carne, pollo. Son el encuentro perfecto entre lo rústico y lo sabroso. Un bocado que conecta con la tradición de las familias venezolanas y conquista a cualquiera en la primera mordida."
+    },
+    {
+      "slug": "platos-fuertes",
+      "title": "Platos fuertes",
+      "items": [
+        {"name": "Bistec", "price_crc": 7000, "description": "Delicioso bistec al grill acompañado de arroz blanco, fresca ensalada y nuestra guasacaca."},
+        {"name": "Pabellón", "price_crc": 6500, "description": "Tradicional sabor venezolano de jugosa carne mechada, acompañado de frijoles negros, arroz blanco, plátano maduro y aguacate."},
+        {"name": "Chuleta de cerdo", "price_crc": 6500, "description": "Deliciosa chuleta de cerdo al grill acompañada de arroz blanco, fresca ensalada y nuestra guasacaca."},
+        {"name": "Pollo salteado", "price_crc": 6500, "description": "Jugoso pollo salteado con cebolla y chile dulce, acompañado de frijoles negros, arroz blanco y aguacate."},
+        {"name": "Pollo al grill", "price_crc": 6500, "description": "Delicioso pollo al grill acompañado de arroz blanco, fresca ensalada y nuestra guasacaca."}
+      ]
+    },
+    {
+      "slug": "parrilla",
+      "title": "Parrilla",
+      "items": [
+        {"name": "Parrilla mixta personal", "price_crc": 8800, "description": "Jugosa parrilla de 170 g de colita de cuadril, 170 g de pollo, crujientes papas fritas, ensalada de repollo y 1 salsa."},
+        {"name": "Plato keto", "price_crc": null, "price_label": "Consultar", "description": ""}
+      ]
+    },
+    {
+      "slug": "paninis-y-burger",
+      "title": "Paninis y burger",
+      "items": [
+        {"name": "Teque hamburguesa", "price_crc": 8500, "description": "Nuestra teque hamburguesa es una fusión perfecta de queso mozzarella, envuelto en nuestra masa de tequeños con 150 g de carne angus, tocineta, tomate, cebolla, crujientes papas fritas y 2 salsas."},
+        {"name": "Panini de carne", "price_crc": 6000, "description": "Irresistible panini relleno de carne al grill, pico de gallo, crujientes papas y 1 salsa."},
+        {"name": "Panini de pollo", "price_crc": 6000, "description": "Irresistible panini relleno de pollo al grill, pico de gallo, crujientes papas y 1 salsa."},
+        {"name": "Tenders de pollo", "price_crc": 6000, "description": "Deliciosas tiras de pollo acompañadas de crujientes papas fritas."},
+        {"name": "Ensalada César", "price_crc": 5000, "description": "Lechuga fresca bañada en cremoso aderezo César con tiras de pollo al grill, crocantes crutones y queso parmesano."}
+      ]
+    },
+    {
+      "slug": "menu-kids",
+      "title": "Menú kids",
+      "items": [
+        {"name": "Nuggets", "price_crc": 3500, "description": "Nuggets y crujientes papas fritas."}
+      ]
+    },
+    {
+      "slug": "combos-mixtos",
+      "title": "Combos",
+      "items": [
+        {"name": "Combo 4", "price_crc": 19500, "includes": ["3 arepas de pollo", "3 arepas de queso", "3 arepas de reina pepiada", "3 arepas de carne mechada", "3 pastelitos de pollo", "3 pastelitos de queso", "3 pastelitos de carne molida", "3 pastelitos de carne mechada", "24 tequeños de queso", "3 salsas de 2 onzas (guasacaca, ajo y chipotle)"]},
+        {"name": "Combo 3", "price_crc": 9500, "includes": ["2 arepas de pollo", "1 arepa de queso", "1 arepa de reina pepiada", "1 arepa de carne mechada", "2 pastelitos de pollo", "1 pastelito de queso", "1 pastelito de carne molida", "1 pastelito de carne mechada", "10 tequeños de queso", "1 salsa de 2 onzas"]},
+        {"name": "Combo 2", "price_crc": 5000, "includes": ["1 pastelito de pollo", "1 pastelito de queso", "1 pastelito de carne molida", "6 tequeños de queso", "1 salsa de 1 onza"]},
+        {"name": "Combo 1", "price_crc": 5500, "includes": ["1 pastelito de pollo", "1 pastelito de queso", "1 pastelito de carne molida", "6 tequeños de queso", "1 salsa de 1 onza"]}
+      ]
+    },
+    {
+      "slug": "combos-por-producto",
+      "title": "Combos por producto",
+      "items": [
+        {"name": "Combo 20 tequeños de queso", "price_crc": 9000, "includes": ["20 tequeños de queso", "1 salsa de 2 onzas"]},
+        {"name": "Combo 10 tequeños de queso", "price_crc": 5500, "includes": ["10 tequeños de queso", "1 salsa de 2 onzas"]},
+        {"name": "Combo 5 tequeños de queso", "price_crc": 3000, "includes": ["5 tequeños de queso", "1 salsa de 2 onzas"]},
+        {"name": "Combo 12 arepas", "price_crc": 9500, "includes": ["3 arepas de pollo", "3 arepas de queso", "3 arepas de reina pepiada", "3 arepas de carne mechada", "1 salsa de 2 onzas"]},
+        {"name": "Combo 6 arepas", "price_crc": 5500, "includes": ["2 arepas de pollo", "2 arepas de queso", "1 arepa de reina pepiada", "1 arepa de carne mechada", "1 salsa de 2 onzas"]},
+        {"name": "Combo 12 pastelitos", "price_crc": 8000, "includes": ["3 pastelitos de pollo", "3 pastelitos de queso", "3 pastelitos de carne molida", "3 pastelitos de carne mechada", "1 salsa de 2 onzas"]},
+        {"name": "Combo 6 pastelitos", "price_crc": 5000, "includes": ["2 pastelitos de pollo", "2 pastelitos de queso", "1 pastelito de carne molida", "1 pastelito de carne mechada", "1 salsa de 1 onza"]}
+      ]
+    },
+    {
+      "slug": "bebidas",
+      "title": "Bebidas",
+      "items": [
+        {"name": "Coca-Cola regular", "size": "355 ml", "price_crc": 1000},
+        {"name": "Coca-Cola Zero", "size": "355 ml", "price_crc": 1000},
+        {"name": "Ginger Ale", "size": "355 ml", "price_crc": 1000},
+        {"name": "Ginger Ale Zero", "size": "355 ml", "price_crc": 1100},
+        {"name": "Sprite Zero", "size": "355 ml", "price_crc": 1100},
+        {"name": "Fanta Naranja", "size": "355 ml", "price_crc": 1000},
+        {"name": "Malta", "size": "355 ml", "price_crc": 1500},
+        {"name": "Agua", "size": "600 ml", "price_crc": 800},
+        {"name": "Té", "size": "22 oz", "price_crc": 1000},
+        {"name": "Fuze Tea", "size": "500 ml", "price_crc": 1200}
+      ]
+    },
+    {
+      "slug": "salsas",
+      "title": "Salsas",
+      "items": [
+        {"name": "Ajo", "prices": [{"size": "2 onzas", "price_crc": 500}, {"size": "7 onzas", "price_crc": 2500}]},
+        {"name": "Chipotle", "prices": [{"size": "2 onzas", "price_crc": 500}, {"size": "7 onzas", "price_crc": 2500}]},
+        {"name": "Guasacaca", "prices": [{"size": "2 onzas", "price_crc": 500}, {"size": "7 onzas", "price_crc": 2500}]}
+      ]
+    }
+  ],
+  "footer": {
+    "catering": ["Eventos corporativos", "Eventos sociales"],
+    "phone": "8496 6860",
+    "service": "Tenemos servicio express propio",
+    "locations": ["Momentum - Pinares", "Plaza Rohrmoser"],
+    "social_handle": "chamogourmetcr"
+  },
+  "source_notes": [
+    "The original PDF text was extracted and normalized for web usage.",
+    "The PDF uses rasterized composite artwork for pages 2 through 7, so individual dish photographs are not embedded as separate source images.",
+    "Check final menu copy with the restaurant before publication."
+  ]
+}
