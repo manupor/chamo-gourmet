@@ -1,5 +1,14 @@
 /* ===== Chamo Gourmet CR — interactions ===== */
 
+// ---- Splash intro ----
+const splash = document.getElementById('splash');
+if (splash) {
+  setTimeout(() => {
+    splash.classList.add('done');
+    document.body.classList.remove('overflow-hidden');
+  }, 5000);
+}
+
 // ---- Navbar scroll state ----
 const navbar = document.getElementById('navbar');
 window.addEventListener('scroll', () => {

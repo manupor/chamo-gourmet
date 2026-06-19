@@ -29,7 +29,7 @@
   <meta name="twitter:description" content="Arepas, cachapas, tequeños, grill and more. Order via WhatsApp." />
   <meta name="twitter:image" content="https://chamogourmetcr.com/hero-chamo.png" />
 
-  <link rel="icon" type="image/png" href="../FAVICON CHAMO.png" />
+  <link rel="icon" type="image/png" sizes="192x192" href="../favicon.png" />
 
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
@@ -114,7 +114,15 @@
   </script>
   <link rel="stylesheet" href="../css/styles.css" />
 </head>
-<body class="bg-night text-cream font-body antialiased selection:bg-gold selection:text-night">
+<body class="bg-night text-cream font-body antialiased selection:bg-gold selection:text-night overflow-hidden">
+
+  <!-- ===== SPLASH INTRO ===== -->
+  <div id="splash" class="fixed inset-0 z-[100] flex items-center justify-center bg-night">
+    <div class="splash-content text-center">
+      <img src="../Logo_CG_.png" alt="Chamo Gourmet CR" class="splash-logo" />
+      <div class="splash-bar"><div class="splash-bar-fill"></div></div>
+    </div>
+  </div>
 
   <!-- ===== NAVBAR ===== -->
   <header id="navbar" class="fixed top-0 inset-x-0 z-50 transition-all duration-300">
@@ -161,8 +169,8 @@
   <!-- ===== HERO ===== -->
   <section id="home" class="relative min-h-screen flex items-center overflow-hidden">
     <div class="hero-bg"></div>
-    <div class="absolute inset-0 bg-gradient-to-b from-night/85 via-night/70 to-night"></div>
-    <div class="absolute inset-0 bg-gradient-to-r from-night via-night/60 to-transparent"></div>
+    <div class="absolute inset-0 bg-gradient-to-b from-night/70 via-night/40 to-night/80"></div>
+    <div class="absolute inset-0 bg-gradient-to-r from-night/90 via-night/50 to-transparent"></div>
 
     <div class="relative z-10 max-w-7xl mx-auto px-5 lg:px-8 pt-28 pb-16 w-full">
       <div class="max-w-2xl reveal">
